@@ -32,4 +32,4 @@ I am completing Computer Science Honours work across Advanced Software Engineeri
 
 - [Developer portfolio](https://zandiledladla.github.io)
 - [FinFlow architecture and setup](https://github.com/zandiledladla/finflow-transaction-api#readme)
-- [Misinformation detection case study](https://zandiledladla.github.io/case-study-misinformation.html)
+- [Misinformation detection case study](https://zandiledladla.github.io/project.html?id=misinformation-detection-system)
